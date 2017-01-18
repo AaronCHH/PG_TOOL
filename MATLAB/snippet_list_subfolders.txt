@@ -1,0 +1,5 @@
+%d = dir(pathFolder);
+d = dir(pwd);
+isub = [d(:).isdir]; %# returns logical vector
+nameFolds = {d(isub).name}';
+nameFolds(ismember(nameFolds,{'.','..'})) = [];

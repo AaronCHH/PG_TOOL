@@ -1,0 +1,8 @@
+## Readme
+This program is to duplicate a set of folders the same as those exist in this folder.
+
+### Refs.
+* 11.2. os.path — Common pathname manipulations — Python 3.5.2 documentation [link](https://docs.python.org/3/library/os.path.html)
+* filesystems - Directory listing in Python - Stack Overflow [link](http://stackoverflow.com/questions/120656/directory-listing-in-python)
+* filesystems - How to list only top level directories in Python- - Stack Overflow [link](http://stackoverflow.com/questions/141291/how-to-list-only-top-level-directories-in-python)
+* Python：使用os.walk() 遞迴印出資料夾中所有目錄及檔名 @ 符碼記憶 [link](http://www.ewdna.com/2012/04/pythonoswalk.html)

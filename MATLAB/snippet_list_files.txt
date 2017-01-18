@@ -1,0 +1,2 @@
+file_list = dir(fullfile('*.csv')); % search files
+file_n = size(file_list,1);         % cal # of files

@@ -1,0 +1,26 @@
+%{
+%}
+
+%% // Start;
+%% // ==== Setup ====
+%% // Set output folder
+
+%% // Read;
+%% // ==== Get info from data ====
+%% // Set thredshold
+%% // Get subset of data    
+
+%% // ==== Prepre to output result ====
+%% // Set Output Figure Size
+%% // Plot (plotyy; plot hold on plot;)
+%% // Add refline
+%% // Set xlim, ylim
+%% // Set xlabel, ylabel
+%% // Set Title
+%% // Get text location %*** TEXT
+%%    Add text in figure %*** TEXT
+
+%% // Set output file name
+%% // output figures to output folder
+
+%% // End;
